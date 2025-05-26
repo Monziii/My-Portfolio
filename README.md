@@ -27,7 +27,8 @@ This is a simple portfolio project to showcase some of my work.
 ## 🚀 Live Demo
 
 (https://monziii.github.io/My-Portfolio)  
-**WordPress Blog Site**[Visit Site](https://your-wordpress-site-url.com))
+**WordPress Blog Site**
+https://finalassignment64.wordpress.com/wp-admin/site-editor.php?canvas=edit&p=%2F
 
 ---
 
